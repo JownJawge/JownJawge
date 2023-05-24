@@ -4,7 +4,7 @@ Hi, I'm John! Welcome to my GitHub :)
 Full-stack Developer
 --------------------
 
-My name is John George Woodard. I'm 22 years old and I'm interested in moving into the tech industry as all my favourite things to do include tech.
+My name is John George Woodard! I'm 22 years old and I'm interested in moving into the tech industry as all my favourite things to do include tech.
 
 I have previously worked in hospitality as a Doorman/Concierge. It didn't feel fulfilling and I realised I felt that I was in the wrong place. I play a lot of video games and have built my own gaming pc, because of these reasons I want to know more about the machine I am using and how things are made online. Right now I am learning to become a full-stack developer as a School of Code bootcamper.
 
