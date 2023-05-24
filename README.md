@@ -25,4 +25,4 @@ Let's connect!
 
 <p align="left"> <a href="https://github.com/JownJawge" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/john-george-woodard-b809a3274/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-[![Codewars] (https://www.codewars.com/users/JownJawge/badges) (https://www.codewars.com/users/JownJawge)
+[![Codewars](https://www.codewars.com/users/JownJawge/badges/large)](https://www.codewars.com/users/JownJawge)
